@@ -724,7 +724,7 @@ wheels = [
 ]
 
 [[package]]
-name = "mp2-melbourne"
+name = "mp2-barcelona"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
